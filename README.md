@@ -1,5 +1,9 @@
 # Patika.dev-FMSS-Final-Case
 
+- [Proje](https://docs.google.com/spreadsheets/d/1cB60Up2bj_CfuU2e04yeCxkAjCfVMwDlwvSjBMbQjWQ/edit?usp=sharing) - 
+
+Projenin iş analizi kısmına buradan ulaşabilirsiniz . 
+
 ## PROJE TANIMI
 
 Patika.dev & FMSS Bilişim Teknoloji Business Analyst Bootcamp Bitirme Projesi Proje Konusu: Web ve mobil uygulama çözümleri sunan şirketinizde Mobil uygulamalar konusunda sorumlu İş Analistisiniz, yöneticiniz prestijli bir holdingin araç kiralama sektörüne giriş yapmak üzere şirketinizden mobil araç kiralama uygulaması geliştirmek üzere şirketinizden teklif almak için toplantı talebi istemiştir. 
