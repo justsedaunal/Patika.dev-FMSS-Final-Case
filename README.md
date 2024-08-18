@@ -1,8 +1,8 @@
 # Patika.dev-FMSS-Final-Case
 
-- [Proje](https://docs.google.com/spreadsheets/d/1cB60Up2bj_CfuU2e04yeCxkAjCfVMwDlwvSjBMbQjWQ/edit?usp=sharing) - 
+- [Proje incelemek için tıklayın](https://docs.google.com/spreadsheets/d/1cB60Up2bj_CfuU2e04yeCxkAjCfVMwDlwvSjBMbQjWQ/edit?usp=sharing)
 
-Projenin iş analizi kısmına buradan ulaşabilirsiniz . 
+- Projenin iş analizi kısmına buradan ulaşabilirsiniz . 
 
 ## PROJE TANIMI
 
